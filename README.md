@@ -170,6 +170,6 @@ https://github.com/YoloDev/Fable.Ava
 
 https://github.com/fable-compiler/Fable.Expect
 
-
+https://github.com/mausch/Fuchu
 
 
