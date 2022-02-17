@@ -168,4 +168,8 @@ https://github.com/Shmew/Fable.Jester
 
 https://github.com/YoloDev/Fable.Ava
 
+https://github.com/fable-compiler/Fable.Expect
+
+
+
 
