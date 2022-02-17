@@ -4,6 +4,25 @@
 Some userful links, blog posts and other resources that I find under-represented, or not covered in depth, grouped in an opinionated way
 Some of those I've used myself, some I didn't.
 
+## Table of Contents
+- [JSON](#examples)
+- [OpenAPI / Swagger](#openAPI-Swagger)
+- [HTTP](#http)
+- [Encoding](#encoding)
+- [Wasm](#wasm)
+- [WebWorkers](#webworkers)
+- [Websockets](#websockets)
+- [SignalR](#signalr)
+- [CSS](#css)
+- [HTML](#html)
+- [State Management](#state-management)
+- [GraphQL](#graphql)
+- [HTMX](#htmx)
+- [React](#react)
+- [Svelte](#svelte)
+- [Tests](#tests)
+
+
 ## JSON
 
 https://github.com/thoth-org/Thoth.Json
@@ -21,7 +40,7 @@ https://github.com/Zaid-Ajaj/Hawaii
 
 https://github.com/Szer/GiraffeGenerator
 
-## Http calls
+## HTTP
 
 https://github.com/Zaid-Ajaj/Fable.SimpleHttp
 
@@ -97,7 +116,7 @@ https://github.com/Fable-Fauna/Fable.Flora - Css theme type provider
 
 ## HTML
 
-https://github.com/alfonsogarciacaro/Feliz.Snabbdom
+https://github.com/alfonsogarciacaro/Feliz.Snabbdom - https://fable.io/blog/2021/2021-03-02-Announcing-Elmish-Snabbdom.html
 
 https://github.com/Zaid-Ajaj/Feliz
 
