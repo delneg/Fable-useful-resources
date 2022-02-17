@@ -58,7 +58,6 @@ https://github.com/Shmew/Feliz.UseWorker
 https://github.com/Zaid-Ajaj/Fable.Remoting
 
 
-
 ###  SignalR
 
 https://github.com/Shmew/Fable.SignalR
@@ -87,15 +86,40 @@ https://github.com/Shmew/Feliz.MaterialUI
 
 https://github.com/zanaptak/TypedCssClasses
 
+https://github.com/JordanMarr/Fable.FluentUI
+
+https://github.com/Fable-Fauna/Fable.Flora - Css theme type provider
 
 
+
+## State Management
+
+https://github.com/Shmew/Feliz.Recoil
+
+https://github.com/fable-compiler/Fable.Store
 
 
 ## GraphQL
 
+https://github.com/Zaid-Ajaj/Snowflaqe
+
+## HTMX
+
+https://github.com/Zaid-Ajaj/Feliz.ViewEngine.Htmx
+
+
+
 ## React
 
 ## Svelte
+
+https://github.com/fable-compiler/Fable.Store
+
+https://github.com/AngelMunoz/Sutil.Generator
+
+https://github.com/AngelMunoz/Fable.Sutil.Templates
+
+https://github.com/davedawkins/Sutil
 
 
 ## Tests
