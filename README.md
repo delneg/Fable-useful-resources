@@ -57,6 +57,9 @@ https://github.com/Shmew/Feliz.UseWorker
 
 https://github.com/Zaid-Ajaj/Fable.Remoting
 
+https://github.com/dbrattli/Fable.Reaction/blob/main/docs/fable.reaction/websocket.rst
+
+https://github.com/ncthbrt/Fable.Websockets
 
 ###  SignalR
 
@@ -76,6 +79,8 @@ https://github.com/Dzoukr/Feliz.Bulma
 
 https://github.com/Fulma/Fulma
 
+https://github.com/davedawkins/Feliz.Engine.Bulma
+
 https://github.com/evilz/fable-ant-design
 
 https://github.com/Zaid-Ajaj/Feliz.AntDesign
@@ -90,6 +95,11 @@ https://github.com/JordanMarr/Fable.FluentUI
 
 https://github.com/Fable-Fauna/Fable.Flora - Css theme type provider
 
+## HTML
+
+https://github.com/alfonsogarciacaro/Feliz.Snabbdom
+
+https://github.com/Zaid-Ajaj/Feliz
 
 
 ## State Management
@@ -108,8 +118,17 @@ https://github.com/Zaid-Ajaj/Snowflaqe
 https://github.com/Zaid-Ajaj/Feliz.ViewEngine.Htmx
 
 
-
 ## React
+
+https://github.com/pj/hacn
+
+https://github.com/fable-compiler/fable-react
+
+https://github.com/Zaid-Ajaj/Feliz.Router
+
+https://github.com/Zaid-Ajaj/Feliz
+
+
 
 ## Svelte
 
