@@ -6,7 +6,7 @@ Some of those I've used myself, some I didn't.
 
 ## Table of Contents
 - [JSON](#examples)
-- [OpenAPI / Swagger](#openAPI-Swagger)
+- [OpenAPI / Swagger](#openapi--swagger)
 - [HTTP](#http)
 - [Encoding](#encoding)
 - [Wasm](#wasm)
