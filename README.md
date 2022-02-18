@@ -114,6 +114,8 @@ https://github.com/JordanMarr/Fable.FluentUI
 
 https://github.com/Fable-Fauna/Fable.Flora - Css theme type provider
 
+https://github.com/Dzoukr/Feliz.DaisyUI
+
 ## HTML
 
 https://github.com/alfonsogarciacaro/Feliz.Snabbdom - https://fable.io/blog/2021/2021-03-02-Announcing-Elmish-Snabbdom.html
