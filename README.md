@@ -120,8 +120,9 @@ https://github.com/Dzoukr/Feliz.DaisyUI
 
 https://github.com/alfonsogarciacaro/Feliz.Snabbdom - https://fable.io/blog/2021/2021-03-02-Announcing-Elmish-Snabbdom.html
 
-https://github.com/Zaid-Ajaj/Feliz
+https://github.com/Zaid-Ajaj/Feliz - Another DSL for HTML (frequently used with React)
 
+https://github.com/Dzoukr/Fue - F# templating library with simple syntax designed for smooth work with F# types.
 
 ## State Management
 
