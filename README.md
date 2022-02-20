@@ -150,7 +150,7 @@ https://github.com/Zaid-Ajaj/Feliz.Router
 
 https://github.com/Zaid-Ajaj/Feliz
 
-
+https://github.com/JordanMarr/Fable.GroupingPanel
 
 ## Svelte
 
