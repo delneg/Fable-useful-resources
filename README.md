@@ -21,6 +21,7 @@ Some of those I've used myself, some I didn't.
 - [React](#react)
 - [Svelte](#svelte)
 - [Tests](#tests)
+- [Dotnet Compatibility](#dotnet-compatibility)
 
 
 ## JSON
@@ -174,5 +175,9 @@ https://github.com/YoloDev/Fable.Ava
 https://github.com/fable-compiler/Fable.Expect
 
 https://github.com/mausch/Fuchu
+
+## Dotnet Compatibility
+
+https://github.com/jwosty/Fable.System.IO - Lightweight System.IO.Path and System.IO.File for Fable
 
 
